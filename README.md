@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mru2/ruby-custom-set.svg?branch=master)](https://travis-ci.org/mru2/ruby-custom-set)
+
 # Ruby: Custom Set
 
 Create a custom set type.
