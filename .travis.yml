@@ -1,0 +1,2 @@
+language: ruby
+script: ruby custom_set_test.rb
